@@ -1,232 +1,233 @@
                Richard Montgomery Blair Academic Tournament 2019
 Head Edited by Emmett Laurie
 Edited by Abhinav Karthikeyan, Adam Howlett, Anson Berns, Alex Hu, Jakob Boeye, Katherine Lei, Naveen Raman, Olivia Chen, and Vishwa Shanmugam
-Written by the members of the Richard Montgomery and Montgomery Blair Quizbowl teams: Alex Constantino, Aries Wang, Chris Tong, Christine Zhu, Derek Chu, Danesh Sivakumar, Daniel Yang, Daniel Zhu, Grant Yang, Jaewoo Chung, Justin Posner, Kevin Lu, Matthew Shu, Michael Xie, Sophia Weng, Shawn Zhao, and Tejas Nazare 
+Written by the members of the Richard Montgomery and Montgomery Blair Quizbowl teams: Alex Constantino, Aries Wang, Chris Tong, Christine Zhu, Derek Chu, Danesh Sivakumar, Daniel Yang, Daniel Zhu, Grant Yang, Jaewoo Chung, Justin Posner, Kevin Lu, Matthew Shu, Michael Xie, Sophia Weng, Shawn Zhao, and Tejas Nazare
                                        
 Tossups
 
-1. In order for this process to achieve breakeven, n times the confinement time must be greater than a certain minimum. That requirement is known as Lawson's criterion. The technique of inertial confinement achieves this process by breaking the Coulomb barrier. This process occurs in stellarators and (*) tokamaks. Fleischmann and Pons falsely claimed to have achieved the "cold" form of this process. In stars, this process may occur through the proton-proton chain or the CNO cycle. For 10 points, name this process in which multiple nuclei combine to form a heavier one, contrasted with fission.
-ANSWER: nuclear fusion <Physics, DY><ed. KLei>
+1. A unit named after this animal pioneered the extremely effective "dive and zoom" tactic and was divided into "Adam" and "Eve" divisions. The commander of that unit, Claire Chennault, served as an advisor to Chiang Kai-Shek during WWII. One ruler, whose name in Persian translates to this animal, defeated Rana Sanga at the Battle of Khanwa and Ibrahim Lodi at the (*) First Battle of Panipat. Another group named after this animal attacked the Four Four Bravo on the Jaffna Peninsula, sparking the Black July Riots and the beginning of the Sri Lankan Civil War. For 10 points, name this animal, which is preceded by "Flying" and "Tamil" in the names of certain historical entities.
+ANSWER tiger [accept Flying Tigers or Tamil Tigers or Babur the Tiger] <Other History, AK><ed. JB>
 
-2. An experiment run in this location tested children in delayed gratification with the offering of a certain foodstuff, the results of which correlated positively with metrics of success later in life. An experiment conducted at this place was recorded in The Lucifer Effect and saw participant 416 go on hunger strike; that experiment performed at this (*) institution was stopped by Christina Maslach after she witnessed cruel treatment such as "privilege cells" and solitary confinement. That experiment aimed to study role internalization and the effect of power on "guards" and "inmates." For 10 points, name this university in California, the setting to Philip Zimbardo's prison experiment.
-ANSWER: Stanford University [prompt on "California"] <Social Science, AK><ed. AH and OC>
+2. The change in this quantity over the change in specific volume is equal to the derivative of the coexistence curve on a phase diagram by the Clapeyron relation. The differential of this quantity equals dQ over t. It's not Gibbs free energy, but the sign of the universal change in this quantity can determine (*) spontaneity. This quantity, which doesn't change in reversible processes, is equal to the natural log of the number of microstates multiplied by Boltzmann's constant. By the Third Law of Thermodynamics, this quantity is zero for a perfect crystal at a temperature of zero Kelvin. For 10 points, name this quantity which can never decrease in isolated systems, a measure of disorder.
+ANSWER: entropy [prompt on S] <Chemistry, CT><ed. KLei>
+3. One film screenplay written by this man was based on a William Makepeace Thackeray novel about an Irish opportunist. This man supposedly forced Shelley Duvall to repeat a scene involving a staircase 127 times before he was satisfied. That film, which led to conspiracies that this man helped fake the (*) moon landings, takes place in the Overlook Hotel. Another film directed by this man features a scene with a bone thrown into the air transitioning to a spaceship, and includes the evil robot HAL 9000. For 10 points, name this director of The Shining and 2001: A Space Odyssey. 
+ANSWER: Stanley Kubrick <Other Fine Arts, KLu><ed. OC>
 
-3. A member of this family fell victim to the Magione conspiracy following his conquest of Camerino during the third Romagna campaign. That member from this family allegedly had Alfonso of Aragon stabbed in St. Peter's Square and then strangled while recovering, presumably for marrying his sister (*) Lucrezia. A Patriarch of this family ordered the likely fictional Banquet of the Chestnuts, a debauched party in the papal palace. That man also excommunicated Girolamo Savonarola and was better known as Pope Alexander VI. For 10 points name this notorious Italo-Spanish family whose members included Rodrigo and Cesare.
-ANSWER: House of Borgia <European History, JB><ed. AH>
-4. This state's only national park is located west of the Boundary Waters Canoe Area Wilderness and has a name that commemorates French-Canadian fur traders; that is Voyageurs National Park. The Mesabi Range, in the northeastern part of this state, is near this state's city of (*) Duluth. The largest city in this state is downstream from the Saint Anthony Falls on the Mississippi River and forms the Twin Cities metropolitan area with this state's capital. For 10 points, name this midwestern state, which includes such cities as Minneapolis and Saint Paul.
-ANSWER: Minnesota <Geography, AK><ed. KLu and AK>
+4. This work's protagonist rushes out of a dining room after sermonizing that ill humor is a crime. That character observes a woman cutting bread for her eight siblings, who later exclaims "Klopstock!" as they look out the window after a storm. This novel ends by relating that no priest attended the burial of a character under two linden trees, where he loved to read Homer and (*) Ossian. That character requests a loan of two pistols "for a journey," heartbroken by his love interest's marriage to Albert. For 10 points, identify this Sturm und Drang novel centering around a young man who commits suicide over his love for Lotte, by Johann Wolfgang von Goethe.
+ANSWER: The Sorrows of Young Werther <Long Fiction, OC><ed. OC>
 
-5. A canteen girl named Marie is adopted by a group of these people in a Donizetti opera. In another opera, one of these people drowns in a lake under a blood-red moon after killing his wife, and is named Wozzeck [["VOT-seck"]]. Almaviva disguises himself as a drunken one of these people to woo Rosina in The Barber of Seville. In another opera, a man in this profession receives a flower from (*) Micaëla in front of the cigarette factory. That character, Don José, stabs a woman who described her love as a "rebellious bird" in the Habanera. For 10 points, name this profession of many characters from Carmen and The Daughter of the Regiment, the latter of which is set in the Napoleonic Wars. 
-ANSWER: soldier [accept equivalents and descriptions like "being in the military"] <Other Fine Arts, DY><ed. OC>
+5. These entities are described by a modified form of the Sakuma-Hattori equation which contains a term proportional to wavelength to the negative fifth power. In these things, peak wavelength is inversely proportional to temperature according to Wien's displacement law. Under certain assumptions, these things were predicted to have (*) infinite energy, which led to the ultraviolet catastrophe. These objects have power proportional to the fourth power of temperature according to the Stefan-Boltzmann law. For 10 points, name these things which emit more energy than any other object with the same temperature and absorb all incoming electromagnetic radiation.
+ANSWER: perfect black body <Physics, CT><ed. KLei>
 
-6. In one story, this figure captures a fairy by baiting her with a doll filled with paste. In another account of that story, this figure accidentally murders a rain-bringing dwarf by hitting him too hard. This figure ties a string to each of his limbs to know when his neighbors' meals are done cooking. This figure attempts to hide all the world's wisdom in a (*) calabash gourd, whereupon he is foiled by his son Ntikuma. He makes a deal with his father, the sky-god Nyame, to bring back a python, a leopard, and a swarm of hornets in exchange for being the god of stories. For 10 points, name this eight-legged Akan trickster deity whose name means "spider."
-ANSWER: Kwaku Anansi <Mythology, AH><ed. OC>
+6. A novel from this country inspired by Tristram Shandy is narrated by a boy who was born nine months before the 500th anniversary of Columbus' journey to the New World. Another novel from this country is divided into sections named for months that each feature a recipe for food from this country. Those novels are Christopher Unborn and (*) Like Water for Chocolate. One writer from this country wrote Eagle or Sun? and analyzed its culture in the essays "The Sons of La Malinche" and "The Day of the Dead," part of his The Labyrinth of Solitude. For 10 points, name this country home to Carlos Fuentes and Octavio Paz.
+ANSWER: Mexico <Long Fiction, AK><ed. AB>
 
-7. An aunt named Muriel with this surname refuses to attend Christmas after being pranked. Another person with this surname dated Penelope Clearwater, and was traumatized after seeing her petrified. A woman with this surname defends her daughter during a battle, killing (*) Bellatrix Lestrange. Two twin brothers with this surname open a successful joke shop on Diagon Alley after dropping out of Hogwarts. People with this surname usually have "red hair, freckles, and more children than they can afford." For 10 points, give this surname of the twins Fred and George and Harry Potter's best friend, Ron.
-ANSWER: Weasley [accept Percy Weasley, Muriel Weasley, Molly Weasley, Fred and George Weasley] <Pop Culture/Mixed Academic, AK><ed. KLu>
+7. This polity underwent a short-lived resurgence under the reign of Al-Nasir, when it conquered the lands of Mesopotamia and Persia. This polity earlier faced secession movements from the Tulunids, Saffarids, and Buyids. It survived in a much-weakened form after the assassination of al-Mutawakkil began the Anarchy at (*) Samarra. During that period, this polity's power was no longer concentrated in Baghdad where, Greek learning had been translated by the House of Wisdom and preserved in large libraries. For 10 points, name this Caliphate named after an Uncle of Muhammad, which succeeded the Umayyad dynasty after Abu Muslim's revolution.
+ANSWER: Abbasid Caliphate <World History, AH><ed. JB>
 
-8. This number is the exponent on the term representing attractive van der Waals forces in the Lennard- Jones potential. EDTA has the ability to form this many bonds with the calcium 2 plus cation. This number is the oxidation state of manganese in the manganate ion, as well as the oxidation state of chromium in potassium dichromate. This is also the number of carbon atoms in 3-methylpentane and (*) fructose, as well as the number of hydrogen atoms in benzene. The combustion of 1 mole of hexane yields this many moles of carbon dioxide. For 10 points, give this number, which is equal to the atomic number of carbon and number of fluorine atoms in sulfur hexafluoride.
-ANSWER: six [or plus six or six plus, accept negative six before "EDTA"] <Chemistry, CT><ed. KLei>
+8. A mutation of the FoxO3A [["fox-O-3-A"]] gene can inhibit this process. The antagonistic pleiotropy ["plea-oh-tro-pee"] theory explains this process through harmful genes that nonetheless favor reproductive fitness. This process occurs prematurely and rapidly for people with progeria. Some theories explain this process as a result of (*) free radical damage or accumulation of mutations, though at the cellular level, this biological process can be explained by the shortening of telomeres with each round of DNA replication. For 10 points, name this progressive decline in cellular and organ function as people get older.
+ANSWER: aging [accept senescence] <Biology, DY><ed. KLei>
 
-9. A character in one of this author's plays tells his wife "Drink your tea, Semiramis" after she entreats him to play make believe with her. That elderly couple greets invisible guests and commits suicide after the arrival of the deaf-mute Orator. Another of his plays begins after an English clock strikes 17 English strokes. This author of (*) The Chairs wrote a play whose protagonist screams "I'm not capitulating!" after Dudard's love interest leaves him. A character in another play composes a repetitive poem in honor of the Fire Chief; that character, Mary, is the maid of the Smiths, who are visited by the Martins. For 10 points, name this playwright of Rhinoceros and The Bald Soprano. 
-ANSWER: Eugene Ionesco <Drama, OC><ed. OC>
-
-
-
-10. The granting of habeas corpus in Wisconsin to one of these people led to a case affirming federal supremacy over state courts, Ableman v. Booth. Laws concerning these people led to a Supreme Court case that ruled that states did not have to aid in federal enforcement of laws, (*) Pennsylvania v. Prigg. These people are the subject of the oft-disputed theory that they used quilts to communicate within a system using instructional songs like "Follow the Drinking Gourd." The Underground Railroad was used by, for 10 points, what group of people who escaped to the North using the Underground Railroad?
-ANSWER: American slaves [accept fugitive slaves, former slaves, and other similar answers] <American History, AK><ed. JB>
-
-11. Spectrin was first discovered in these cells, where hexagonal complexes of it attach to ankyrin. The production of large, short-lived types of these cells caused by a deficiency of vitamin B12 and folic acid is called macrocytosis. These cells contain a large amount of carbonic anhydrase in order to convert (*) carbon dioxide into bicarbonate. Another protein in these cells contains four heme groups bound to iron atoms; a mutation of the beta subunit of that protein causes these cells to take on a sickle shape. For 10 points, name these hemoglobin-containing biconcave cells that transport oxygen in the blood.
-ANSWER: red blood cells [accept erythrocytes, red cells, or RBCs; prompt on blood cells] <Biology, DY><ed. KLei>
-
-12. While the second generation of painters in this style drew inspiration from the Dusseldorf school, they in turn inspired Luminist artists such as Fitz Hugh Lane and John Kensett. An artist from this movement painted the eruption of Cotopaxi during a trip to South America, during which he also painted (*) Heart of the Andes. That artist studied with another who depicted the rise and fall of a city in The Course of Empire and the Connecticut River Valley in the aftermath of a thunderstorm in The Oxbow. Frederic Edwin Church and Thomas Cole were members of, for 10 points, what New York-based art movement known for its pastoral landscapes?
-ANSWER: Hudson River School <Visual Arts, DC><ed. AH>
-13. In one story by this author, a soldier begins to regain his faculties after receiving a broken watch and a note that says "HELLO" ten times. One of his characters calls a woman in an elevator a sneak for looking at his feet; that character is married to the superficial Muriel and plays the piano next to Sharon Lipschutz. This author of (*) "For Esmé  -  with Love and Squalor" wrote a novel whose protagonist owns a baseball mitt which belonged to his deceased brother Allie. That character is expelled from Pencey Prep and buys a record for his sister Phoebe. For 10 points, name this author of "A Perfect Day for Bananafish" and The Catcher in the Rye. 
-ANSWER: Jerome David Salinger <Short Fiction/Other, OC><ed. OC>
-
-14. One ruler of this dynasty used a large pool full of alcohol and trees with branches made up of roasted meat skewers for his personal entertainment. That ruler was the "immoral" King Zhou. The taotie motif was prevalent during this dynasty, which gained power after a decisive victory at the legendary Battle of Mingtiao. This dynasty was centered around its capital of Anyang, where excavations have uncovered (*) oracle bones that were used for divination. Supplanted by the Zhou Dynasty at the Battle of Muye was, for 10 points, what first archaeologically verified dynasty of China, which came to power in the 18th century BC?
-ANSWER: Shang Dynasty [prompt on Yin Dynasty] <Other History, AK><ed. JB>
-
-15. One major battle in this work features the anticlimactic death of Baligant of Babylon, whose hundreds of thousands of men are killed in the span of a few passages. Another battle scene features a wounded character killing 70 people in one spear-thrust; that man is Archbishop Turpin. Another character ascends to heaven as his head is blown apart by (*) blowing on a horn that can be heard from miles away. That character is betrayed by his stepfather Ganelon, who is in league with the Moorish King Marsile of Saragossa. An army is ambushed at Roncevaux Pass in, for 10 points, what medieval French epic about the title nephew of Charlemagne?
-ANSWER: The Song of Roland [accept La Chanson de Roland] <Long Fiction, AH><ed. OC>
-
-16. "Lonely Flowers" and "Prophet Bird" are pieces by this composer in a collection of piano pieces titled Waldszenen. This composer created The League of David Society, which lends its name to last movement of a collection of pieces that feature the A-S-C-H motif and are ascribed to (*) Florestan and Eusebius. The fourth movement of this composer's third symphony depicts the elevation of a cardinal at a cathedral in Cologne; that symphony depicts life by a German river. This composer of Dichterliebe and Carnaval included the movement Traumerei in his Scenes from Childhood. For 10 points, name this German composer of the Spring and Rhenish Symphonies.
-ANSWER: Robert Schumann <Auditory Art, DY><ed. OC>
-
-17. One of these devices contains a component composed of eighteen hexagonal segments made out of gold-plated beryllium. Another one of these devices corrected for a 4-micron manufacturing error with the COSTAR system. Both of those devices use Cassegrain mounting. These non-biological devices are subject to comas, astigmatisms, and (*) chromatic aberrations. One of these devices captured images of Westerlund 2 and the Pillars of Creation, and that device will soon be replaced by another one of them named for James Webb. For 10 points, name these optical devices used to look at stars, the most famous of which is named after Edwin Hubble.
-ANSWER: telescopes [prompt on lenses] <Other Science, DY><ed. KLei>
-18. A poem addressed to this man depicts the "always coming on / the always rising of the night." The speaker of a poem by this author finds "fair quiet" and "innocence" in the title place, exclaiming "No white nor red was ever seen / So am'rous as this lovely green." The speaker of another poem imagines finding rubies by the Indian Ganges' side and declares a (*) "hundred years should go to praise / thine eyes." That poem describes a "vegetable love" that would grow "vaster than empires and more slow" if not for "time's wingèd chariot hurrying near," and begins "had we but world enough and time." For 10 points, name this metaphysical poet of "The Garden" and "To His Coy Mistress." 
-ANSWER: Andrew Marvell <Non-epic poetry, OC><ed. OC>
-
-19. According to at least one midrash, this figure destroyed his father's idol-shop as a youth, sparking a chain of events that leads in the death of his brother Haran. This man led a force of 318 men at the Battle of the Vale of Siddim in order to rescue his nephew from king Chedorlaomer, and he tried to protect his (*) wife from the Philistines by claiming she was his sister. He married the handmaid Hagar but later cast her and their son Ishmael away after Sarah gave birth to Isaac. For 10 points, name this biblical patriarch, the namesake of a family of middle eastern religions.
-ANSWER: Abraham <Religion, AH><ed. JB>
+9. Fifty players from this country participated in the 2018 World Cup, surpassing all other countries by 22. A left-back from this country scored with a long range volley from outside the penalty area to secure his team's victory in a Round of 16. At one World Cup, players from this country went on strike by refusing to practice and staying in the team bus. (*) Karim Benzema [[Ben-zi-mah]] and Benjamin Pavard are footballers from this country, which, with the help of a 25 yard strike by Kylian Mbappe [[em-bap-ay]], won the 2018 World Cup Finals against Croatia. For 10 points, name this European country, whose national football team is known as Les Bleus. 
+ANSWER: France [accept French Republic] <Pop Culture/Mixed Academic, AK><ed. AdH>
 
 
-20. This polity employed the Enderun School to train soldiers for a force that wore distinguishing hats called borks; that school's administrators were one of the groups in this polity's governance to use deaf-mutes. A military force employed by this polity was disbanded in the so-called "Auspicious Incident." That unit fought against Louis II during the Battle of (*) Mohacs, after which this empire partitioned Hungary with the Habsburg empire. In 1535, this empire captured Baghdad under Sultan Suleiman the Magnificent. For 10 points, name this empire ruled by the House of Osman from Constantinople.
-ANSWER: Ottoman Empire <World History, JP><ed. AH>
+10. The fifth movement of this composer's All-Night Vigil was sung at his funeral. In several pieces, this composer used unusually widely spaced chords in order to imitate church bells, including a piece which begins with crescendoing chords alternating with low F half notes. This composer was inspired by an Arnold Bocklin painting to compose (*) The Isle of the Dead. This composer's prelude in C-sharp minor is nicknamed "Bells of Moscow" and has four staves. Another piece by this composer is based on an Italian composer's 24th caprice for violin. For 10 points, name this Russian composer of four virtuosic piano concertos and Rhapsody on a Theme of Paganini.
+ANSWER: Sergei Rachmaninoff [accept Sergei Rachmaninov] <Auditory Art, DY><ed. OC>
+
+11. One of this poet's speakers "sought a theme and sought for it in vain" and lies down "in the foul rag and bone shop of the heart." One of his poems mourns "a drunken, vainglorious lout...who had done most bitter wrong"; that poem begins by recalling the exchange of "polite meaningless words" and repeats the refrain "a (*) terrible beauty is born." This poet of "The Circus Animal's Desertion" declares "the ceremony of innocence is drowned" in a poem that illustrates "a vast image out of Spiritus Mundi." That poem describes a "rough beast" that "slouches towards Bethlehem to be born." For 10 points, name this Irish poet of "Easter, 1916" and "The Second Coming."
+ANSWER: William Butler Yeats <Non-Epic Poetry, OC><ed. OC>
+
+12. One work by this philosopher distinguishes between qualities that are "said of" objects and qualities "in" objects. In addition to making the distinction between primary and secondary substances in the Categories, this philosopher speculated that there might be as many as 45 unmoved (*) movers after arguing for the existence of God on the basis of final causes. This philosopher described virtue by the doctrine of the mean and held that the "the good" is a complete and self-sufficient end towards which all actions strive. For 10 points, name this author of Nicomachean Ethics, a student of Plato.
+ANSWER: Aristotle <Philosophy, AH><ed. AH>
+
+13. This man's familial ties to a Chinese shipping magnate implicated in smuggling illegal drugs were publicized in an ad run by Don Blankenship, who added "cocaine" in front of this man's name in that ad. When the Senate voted to silence Elizabeth Warren's objections to confirming Jeff Sessions as Attorney General, this man uttered "Nevertheless, (*) she persisted" when trying to defend the actions taken by the Senate. In 2017, he used the "nuclear option" to confirm Neil Gorsuch as a Supreme Court Justice. For 10 points, name this Kentucky Republican, who has served as Senate Majority Leader since January 2015.
+ANSWER: Mitch McConnell <Current Events, AK><ed. KLu and AK>
+
+14. This man encounters a bookkeeper who does not cross `t's or dot `i's to save ink, Johnny Inkslinger, as well as the cooks Cream Puff Fatty and Hot Biscuit Slim. In one story, this man turns a lake with peas spilled in it into pea soup; in another story, this figure greases his flapjack griddle by skating on it with bacon. He lives through the Winter of the (*) Blue Snow, during which he finds a blue calf that he names Babe. His and Babe's footsteps create Minnesota's 10,000 lakes, and when he drags his ax on the ground, it cuts a ditch that forms the Grand Canyon. For 10 points, name this giant lumberjack from American folklore.
+ANSWER: Paul Bunyan <Mythology, DZ><ed. AB>
+
+
+15. Note: two answers required. One of these two countries was required to drop the other from its official name as part of the Treaty of Saint Germain. Agents from one of these countries likely assassinated the dictator of the other, Engelbert Dollfuss, during the July Putsch. Mussolini positioned tanks (*) at a certain border to prevent one of these countries from invading the other, but annexation still occurred in 1938. For 10 points, name these two countries that were united by Adolf Hitler under the Anschluss, which resulted in the joining of the governments of Vienna and Berlin.
+ANSWER: Austria and Germany [accept in either order; prompt on partial answer] <European History, KLu><ed. AH>
+
+16. During this period, daybreak begins when the eye can distinguish a white thread from a black one. One of the most significant events during this holiday is the Laylat al-Qadr, the observance of which is said to be better than pious acts extended over 1000 months. Observers of this holiday engage in the practice of (*) Sadaqah so that everyone has food for the final day. During this period, people wake up early to take Suhoor, and end their day with the Iftar meal. Muslims observe this month-long holiday commemorating the first revelation of the Prophet Muhammad by fasting from dawn to dusk. For 10 points, name this ninth month of the Islamic calendar.
+ANSWER: Ramadan <Religion, AH><ed. JB>
+
+17. In a branch of mathematics described by this adjective, contour integrals are evaluated using residues of this type. That branch deals with holomorphic functions, which are [this adjective] analytic. When graphed on a diagram depicting these numbers, roots of unity lie on the circumference of a unit circle. A group of numbers extending these numbers define 3D rotations in computer graphics; those are (*) quaternions. Exponentiating these numbers is simplified by de Moivre's [["duh mwavs"]] theorem. These numbers are reflected over the x axis of Argand diagrams when undergoing conjugation. For 10 points, name these numbers which consist of real and imaginary parts, and can be expressed as a plus b i.
+ANSWER: complex [accept complex analysis or complex numbers; prompt on quaternions before read; do not accept "imaginary"] <Other Science, VS><ed. KLei>
+
+18. A character with this first name lives in a house whose interior has not been seen for ten years, except by an old man-servant. After her father passes away, that character is given tax exemptions by her town's mayor Colonel Sartoris. Another character with this first name asks the question "Do any human beings realize life while they live it?" in a monologue. That character dies in (*) childbirth and re-celebrates her twelfth birthday party with the help of the Stage Manager. That woman marries high school baseball phenom George Gibbs in Wilder's Our Town. For 10 points, William Faulkner wrote a short story titled "A Rose for" what character, also the first name of the author of Wuthering Heights?
+ANSWER: Emily [accept Emily Grierson, Emily Webb, or Emily Brontë] <Short Fiction/Other, AK><ed. OC>
+
+19. A largely discredited Richard Hofstadter theory traced this man's supporters to the populists of the late 19th century. Hofstadter coined the term "paranoid style" in an essay about this man, who was indirectly criticized in Margaret Chase Smith's "Declaration of Conscience" speech. This man was censured by the Watkins Committee for his unacceptable behavior as a (*) Senator, although he is more famous for his indirect involvement with the House Committee for Un-American Activities. For 10 points, name this Wisconsin Senator who began the Second Red Scare by claiming that he had the names of 205 Communists in the State Department.
+ANSWER: Joseph McCarthy <American History, EL><ed. AH>
+
+
+20. A dove of this color delivers a poppy to the title figure in Dante Rossetti's Beata Beatrix. A goat plays the cello as a bride wearing a dress of this color walks down the aisle in Chagall's La Mariée. This color forms the background of Salvador Dalí's depiction of elephants on stilts. A prominent landform of this color appears in Hokusai's woodblock print Fine Wind, Clear Morning to illustrate a visual effect of sunrise. Van Gogh used this color for the (*) walls of The Night Café to clash with the ceiling and billiards table, and this color streaks the sky to represent Krakatoa's eruption in another painting. For 10 points, name this color that Edvard Munch used to evoke blood in The Scream.
+ANSWER: red <Visual Arts, GY and OC><ed. AH>
+
 
 Bonuses
+1. This discipline flourished in France under the reign of Louis XIV; he himself was an enthusiast of this discipline from a very young age. For 10 points each:
+[10] Name this discipline whose practitioners were frequently painted by Degas on Stage or at the Barre.
+ANSWER: ballet [prompt on dance]
+[10] This term refers to the technique in which dancers support the whole of their weight on their toes. Vaslav Nijinsky was known for being one of the few male dancers who could accomplish this technique during his time. 
+ANSWER: en pointe ([["pwant"]], but be lenient on pronunciation) [accept pointe technique] 
+[10] En pointe must be differentiated from this similar ballet technique in which the feet are not completely extended. This technique is executed in the fifth position and is translated from French as "over-under."
+ANSWER: sus-sous [["soo-SOO"]] [prompt on relevé] <Other Fine Arts, OC><ed. OC>
 
-1. The fastest growing religion from 1910 to 2010 was this faith established by Baha'u'llah after the Declaration of the Garden of Ridwan. For 10 points each.
-[10] Name this pluralistic religion that considers all major world religions to be progressively revealed manifestations of one Monotheistic faith.
-ANSWER: Baha'i
-[10] The rapid growth of Baha'i can largely be attributed to the tireless efforts of this great grandson of Baha'u'llah, who authored the Epistle to the Son of the Wolf as Guardian of the faith from 1921 to 1957.
-ANSWER: Shoghi Effendi
-[10] The Baha'i faith originated in this modern-day country where Zoroastrianism also originated. Baha'i remains the second-largest religion in this country after Shia Islam despite persecution. 
-ANSWER: Iran <Religion, AH><ed. JB>
+2. This song opens with the piano playing fifteen C's two octaves above middle C. For 10 points each:
+[10] Name this song whose chorus includes the lyrics "I think it's time for us to have a toast" and ends with the line "Baby I got a plan" and a suggestion to do the title action "as fast as you can."
+ANSWER: "Runaway"
+[10] "Runaway" was a single from this 2010 album whose album art depicts the artist being straddled by a naked woman with wings in a gold and red border. Other songs on this album include "All of the Lights" and "Monster."
+ANSWER: My Beautiful Dark Twisted Fantasy
+[10] This rapper created My Beautiful Dark Twisted Fantasy. His other albums include The College Dropout, Graduation, and Yeezus. 
+ANSWER: Kanye West [accept either name] <Pop Culture/Mixed Academic, DY><ed. KLu and AK>
 
-2. Could it be? Yes! You have been improbably transformed into the Mongol general Subutai! For 10 points each:
-[10] You lead an invasion of Europe alongside Batu, the founder of this khanate. This khanate was supposedly named for the iridescent color of Batu's tent and ruled over modern day Russia.  
-ANSWER: Golden Horde [accept Kipchak Khanate of Ulus of Jochi]
-[10] Your ingenious use of pontoon bridges helps you obliterate Bela IV's Hungarian army at this 1241 battle. After this battle, your forces devastate the Hungarian lowlands, killing around 20 percent of the population.
-ANSWER Battle of Mohi [accept Sajo River or Tisza River]
-[10] Your rapid rise through the ranks of the Mongol army is largely due to the support of this first Great Khan. After his death, this man was succeeded by his son Ogedei.
-ANSWER: Genghis Khan [accept Temujin] <World History, JB><ed. OC>
+3. One of the most important duties of the Catholic Church is administering the sacraments. For 10 points each:
+[10] The Catholic Church currently recognizes this many sacraments, which is also the number of deadly sins. 
+ANSWER: seven
+[10] One of the most contentious sacraments in church history is the eucharist, which Catholics believe is transformed into the body and blood of Christ in a process described by this term.
+ANSWER: transubstantiation
+[10] Transubstantiation should not to be confused with this similar-sounding belief held by Lollards and some Lutherans that the body and blood of Christ appear mixed in with the Eucharist rather than taking its place.
+ANSWER: consubstantiation <Religion, AH><ed. JB>
 
-3. At the end of this novel, Nancy goes mad and can only say the word "shuttlecock" after learning of her idol's affairs with many women, including La Dolciquita and Maisie Maidan. For 10 points each:
-[10] Name this novel which begins "this is the saddest story I have ever heard." John Dowell narrates this novel, which follows the Ashburnams at a spa in Nauheim.
-ANSWER: The Good Soldier
-[10] The Good Soldier was written by Ford Madox Ford, an author from this literary group of disillusioned expatriates in the early 20th century. Its name was coined by Gertrude Stein.
-ANSWER: Lost Generation
-[10] Another prominent Lost Generation writer is this author of This Side of Paradise and The Great Gatsby.
-ANSWER: F. Scott Fitzgerald <Long Fiction, OC><ed. OC>
-
-4. Examples of this group of rocks include diorite, andesite, and granite. For 10 points each:
-[10] Name this rock type that is formed from the solidification of magma or lava.
-ANSWER: igneous rock [prompt on magmatic rock]
-[10] This adjective describes an igneous rock that has high magnesium and iron content, such as biotite and olivine. It is contrasted with felsic.
-ANSWER: mafic [or basaltic]
-[10] These mafic rocks are the intrusive analogues of basalt. Much of Earth's oceanic crust is composed of this group of rocks.
-ANSWER: gabbros <Other Science, KLei><ed. VS>
-
-
-5. Symbolism in this author's story "Bliss" includes a flowering pear tree and a "rare fiddle." For 10 points each:
-[10] Name this modernist writer who penned a short story in which Jug and Con cope with the death of their tyrannical father, "The Daughters of the Late Colonel." 
-ANSWER: Katherine Mansfield 
-[10] Mansfield settled in the UK at the age of nineteen, where she became friends with this author of "The Rocking Horse Winner" and Sons and Lovers.
-ANSWER: David Herbert Lawrence
-[10] This controversial novel by Lawrence details Constance's affair with Oliver Mellors at Wragby, her crippled husband's estate. 
-ANSWER: Lady Chatterley's Lover <Short Fiction/Other, OC><ed. OC>
-
-6. This group designed a flat-bottom ship known as a cog, which it used to achieve immense commercial success. For 10 points each:
-[10] Valdemar IV was forced to grant this group 15% of profits from Danish trade after they won a war against him. This group dominated Baltic trade for several centuries during the High Middle Ages.
-ANSWER: Hanseatic League [or Hansa]
-[10] The Hanseatic League was centered around the town of Lübeck, a city in this modern-day country. Hamburg, a city in this country, was another key member of the confederation.
-ANSWER: Federal Republic of Germany
-[10] This other political union rivaled the Hanseatic League for supremacy. This Scandinavian federation founded by Queen Margaret I was broken up after Gustav Vasa was elected king of Sweden.
-ANSWER: Kalmar Union <European History, AK, JP, and DC><ed. AH>
-
-7. Why is a viola like a lawsuit? Everyone is glad when the case is closed. For 10 points each:
-[10] This Hungarian composer wrote one of the big three concertos in mainstream viola repertoire. He also composed Duke Bluebeard's Castle and Mikrokosmos.
-ANSWER: Béla Bartók
-[10] Another concerto of the big three was written by this German composer of an opera about Matthias Grünewald, Mathis der Maler.
-ANSWER: Paul Hindemith
-[10] The viola is differentiated from the violin by swapping out the E string for this lower string. Mozart's "Jupiter" Symphony uses this note's major key, which contains no sharps or flats and is the harmonic equivalent of A minor.
-ANSWER: C string [accept C major] <Auditory Art, OC><ed. OC>
-
-8. This artist restored the use of classical proportions to depict the human form, helping transition from the medieval tendency to stylize and elongate. For 10 points each:
-[10] Name this 14th-century Italian painter, who depicted the Madonna and Child as suns in a star-filled sky in one of his many frescoes for the Arena Chapel.
-ANSWER: Giotto di Bondone
-[10] Giotto was mentored by this influential Florentine painter of the Maesta of Santa Trinita whose works began to express a distinct sense of three-dimensionality in contrast with the flat Italo-Byzantine style.
-ANSWER: Cimabue [[chee-MAH-bway]]
-[10] The "Golden Age" of Italian painting as described by Giorgio Vasari was still a hundred years off from Giotto, and would be typified by artists like this painter of Primavera and The Birth of Venus.
-ANSWER: Sandro Botticelli <Visual Arts, AH><ed. OC>
+4. This Indian leader is reputed to have built a terrible prison with the "facade of a spectacular palace." For 10 points each:
+[10] Name this son of Bindusara who was famous for his Rock Edicts. This man converted to Buddhism after realizing the atrocities he had committed during his conquest of Kalinga.
+ANSWER: Ashoka [accept Asoka]
+[10] Ashoka belonged to this dynasty, which was founded by his grandfather Chandragupta. This dynasty's empire, the largest ever to exist on the Indian subcontinent, was based in the city of Pataliputra.
+ANSWER: Mauryan Empire [accept Mauryan Dynasty]
+[10] The most important source about Chandragupta Maurya's reign for the Greeks was Indica, which was written by this man. This man served as an ambassador of the Seleucid Empire in Chandragupta's court.
+ANSWER: Megasthenes <World History, AK and JP><ed. AH>
 
 
-9. In one work, this philosopher envisions a "kingdom of ends" and argues that we should be able to will the maxim by which we act to be a universal law. For 10 points each:
-[10] Name this German philosopher who described the categorical imperative in his Groundwork of the Metaphysics of Morals.
-ANSWER: Immanuel Kant
-[10] Kant published the Prolegomena to Any Future Metaphysics as a clarification to this work, in which he demonstrates the existence of synthetic a priori truths.
-ANSWER: Critique of Pure Reason
-[10] In the Critique of Pure Reason, Kant distinguishes between phenomena and these imperceptible things that he calls "things-in-themselves."
-ANSWER: noumena [or noumenon] <Philosophy, DY><ed. AH>
+5. She isn't Elizabeth I, but this woman made a rousing speech about English courage in anticipation of the Earl of Surrey's victory at Flodden Field. For 10 points each:
+[10] The book The Education of A Christian Woman by Juan Luis Vives was commissioned by this wife of Arthur, the son of Henry VII.
+ANSWER: Catherine of Aragon [prompt on Catherine]
+[10] Upon Arthur's premature death, Catherine would become Queen of England after marrying this soon-to-be prolifically-wed King of England. 
+ANSWER: Henry VIII [prompt on Henry]
+[10] This pope refused to annul Henry VIII's first marriage under pressure from Charles V. Nonetheless, he was later taken prisoner as Charles III lost control of his men during the 1527 sack of Rome.
+ANSWER: Clement VII [prompt on Clement] <Other History, AK and JP><ed. AH>
 
-10. Answer the following about derivatives of POMC, for 10 points each:
-[10] This POMC-derived hormone promotes cortisol release. It is synthesized in the anterior pituitary gland.
-ANSWER: ACTH [or adrenocorticotropic hormone or adrenocorticotropin]
-[10] ACTH is cleaved into melanocyte-stimulating hormone, which stimulates melanin production in hair and in this organ, the largest external organ of the body. It consists of the epidermis and dermis.
-ANSWER: skin
-[10] POMC cleavage also forms beta-endorphin, an endogenous variety of this class of substances. These substances include endorphins and oxycodone, and are one class of substances often used as analgesics.
-ANSWER: opioids [accept opiates; prompt on painkillers or similar answers] <Biology, DY><ed. KLei>
+6. A major unsolved problem in modern physics is finding the electric charge radius of this subatomic particle, the subject of experiments by Pohl et al. For 10 points each:
+[10] Name this particle which they are investigating, a positively charged nucleon.
+ANSWER: proton [prompt on p or p+]
+[10] Pohl et al. remeasured a constant named for this man in a 2017 experiment concerning the radius of the proton. This man's namesake formula is a general way to calculate spectral lines of any chemical elements.
+ANSWER: Johannes Rydberg
+[10] Pohl et al. performed measurements using hydrogen atoms orbited by this negatively charged second generation lepton rather than an electron or tauon. Their long period of decay makes them useful in observing time dilation.
+ANSWER: muons <Physics, CT><ed. VS>
 
-11. As a punishment for stealing the peaches of immortality, this character is locked in a cauldron for forty-nine days, where he develops huo yan jin jing, or "golden-gaze fiery-eyes." For 10 points each:
-[10] Name this character who uses the golden-banded staff Jingu Bang to defend Tang Seng.
-ANSWER: Sun Wukong [prompt on partial answer, accept Monkey King]
-[10] In one story, Sun Wukong must acquire a fan from a princess named for this metal because her fan can put out fires from a nearby volcano. 
-ANSWER: iron [accept tie shan gongzhu]
-[10] Sun Wukong appears in this work, one of China's four great novels. It was written by Wu Cheng'en.
-ANSWER: Journey to the West [or Xi You Ji] <Long Fiction, KLei><ed. OC>
+7. For 10 points each, answer these questions about the Beehive State, Utah:
+[10] The largest city in Utah is this city, its capital. This city was host of the 2002 Winter Olympics and was founded in 1847 by Brigham Young.
+ANSWER: Salt Lake City
+[10] This national park in Utah is located just north of Moab. It has its highest elevation at Elephant Butte, and is famous for its namesake features.
+ANSWER: Arches National Park
+[10] Salt Lake City is located in a metropolitan area named after this mountain range. This mountain range stretches from Idaho into central Utah and is just east of Salt Lake City.
+ANSWER: Wasatch Range <Geography, AK><ed. KLu and AK>
 
-12. The recording that led to this controversy was recorded by Jay Aubrey Jones for vocabulary.com. For 10 points each:
-[10] A 2018 internet argument concerned an auditory illusion involving listeners hearing one of two different words. Name both of those words.
-ANSWER: yanny and laurel [accept in either order]
-[10] When Donald Trump was asked whether he heard "yanny' or "laurel," he responded, "I hear [this word]." This word originated from one of Trump's tweets, which reads: "Despite the constant negative press [this word]."
-ANSWER: covfefe [accept any reasonable pronunciation]
-[10] The "yanny" or "laurel" debate drew similarities to a 2015 internet debate about "the dress," an image that was originally posted on this social media site. This platform banned all adult content from its site in December 2018.
-ANSWER: Tumblr <Pop Culture/Mixed Academic, KLu><ed. KLu and AK>
-
-
-13. In 1964, the Supreme Court declared in a ruling in favor of the New York Times that prior restraint required the government to show "grave and irreperable damage" would result from a written statement. For 10 points each:
-[10] Name this standard established in the landmark Supreme Court case New York Times v. Sullivan, which establishes the criterion that press reports about public officials must meet to be considered libel.ANSWER: actual malice standard [prompt on just malice]
-[10] New York Times v. United States concerned the publication of these documents leaked by Daniel Ellsberg which revealed, among other things, that the US had secretly expanded the scope of the Vietnam War. 
-ANSWER: Pentagon Papers
-[10] This President attempted to stifle the publication of the Pentagon Papers during his continuation of the Vietnam War. He later resigned following the Watergate scandal.
-ANSWER: Richard Milhous Nixon <American History, EL><ed. OC>
-
-14. Answer the following about BET theory, for 10 points each:
-[10] BET theory describes this process, in which a thin layer of molecules adheres to a solid or liquid surface.
-ANSWER: adsorption [do not accept or prompt on "absorption"  -  ask the player to spell it out if necessary]
-[10] The "activated" form of this element has high surface area for adsorption. Other forms of this element include graphite and diamond.
-ANSWER: carbon [accept C]
-[10] BET theory is an extension of a theory of monolayer adsorption named for this chemist. He also names a probe used to determine the electron density of plasmas.
-ANSWER: Irving Langmuir <Chemistry, KLei><ed. VS>
-
-15. Throughout the Trump administration's first two years in office, it has sought to withdraw the U.S. from various international organizations and agreements. For 10 points each:
-[10] In June 2017, Trump announced that the U.S. would withdraw from this climate agreement, named for the French city where it was signed.
-ANSWER: Paris Agreement [accept Paris Accord]
-[10] In June 2018, this then-Ambassador to the U.N. announced that the U.S. would withdraw from the U.N. Human Rights Council, citing unfair treatment of Israel. She previously served as the governor of South Carolina.
-ANSWER: Nikki Haley
-[10] The administration plans to withdraw from the Universal Union of this service, claiming that it unfairly benefits Chinese manufacturers. Montgomery Blair oversaw the U.S. delegation that founded the organization in the 1860s.
-ANSWER: Universal Postal Union [accept anything related to postal or mail service] <Current Events, IR><ed. KLu and AK>
-
-16. Herodotus of Halicarnassus is often considered to be the father of this discipline, whose name derives from the Greek word for "finding out" and "narrative." For 10 points each:
-[10] Name this discipline practiced by Howard Zinn and Frederick Jackson Turner that concerns itself with the study of the past.
-ANSWER: history
-[10] Thomas Carlyle popularized this historiographic approach that frames the study of history through the lives and impact of certain extraordinary heroes.
-ANSWER: great man theory
-[10] "Great man" history is contrasted with the materialist perspective of this philosopher, whose historical analyses include The Eighteenth Brumaire of Louis Napoleon.
-ANSWER: Karl Marx <Other History, AH><ed. OC> 
-
-17. This work begins by addressing "You who hear in scattered rhymes the sound of those sighs." For 10 points each:
-[10] This collection of 366 poems includes many poems in a fourteen-lined sonnet form named for its author. 
-ANSWER: Il Canzoniere [accept Rime Sparse]
-[10] This Italian humanist and poet authored Il Canzoniere. He wrote about climbing a mountain in a letter to his former confessor, "Ascent of Mount Ventoux."
-ANSWER: Petrarch [accept Francesco Petrarca]
-[10] The poems of Il Canzoniere are often addressed to this mysterious woman, whose existence has not been confirmed. This woman is the dedicatee of many of Petrarch's love poems and allegedly died on Good Friday.
-ANSWER: Laura <Non-epic Poetry, AH><ed. OC>
-
-18. The Kerr, Schwarzschild, and Reissner - Nordström [["rize-ner nord-strum"]] metrics are solutions to these equations. For 10 points each:
-[10] Name this set of ten equations in general relativity which relate spacetime curvature to the stress - energy tensor.
-ANSWER: Einstein field equations [or EFE]
-[10] The Einstein field equations describe this force. Because of this force, objects on Earth fall with an acceleration of about 9.8 meters per second squared.
-ANSWER: gravity [or gravitation]
-[10] This value is the minimum speed for an object to break free from the gravitational attraction of another massive object. It is calculated as [read slowly] root 2 G [["big G"]] M over r.
-ANSWER: escape velocity [prompt on v sub e] <Physics, KLei><ed. VS>
-
-19. The architecture of sacred spaces is often planned along spiritual axes. For 10 points each:
-[10] Most mosques contain a wall-niche called a Mihrab, which indicates the direction of the Qibla. The direction of the qibla is fixed in the direction of this cube-like building at the center of the Sacred Mosque in Mecca.
-ANSWER: Kaaba
-[10] This great temple complex located in Central Java consists of nine stacked platforms for pilgrims to circumambulate in accordance with the geometry of the Buddhist Universe.
-ANSWER: Borobudur
-[10] This Incan capital was connected to other cities not only by the Incan road system but by the ceque system of ritual pathways. Some theorists indicate that they correspond with astrological events. 
-ANSWER: Cuzco <Other Fine Arts, AH><ed. AH>
-
-20. This mythical figure is often compared to Achilles for his tendency to enter into an unstoppable killing rage, or ríastrad. For 10 points each.
-[10] Name this demigod hero, son of Deichtine and Lugh, whose exploits are described in the Ulster Cycle.
-ANSWER: Cú Chulainn [accept Sétanta]
-[10] One of his early exploits was assigned to him by his father-in-law Forgall the Wily, who sent him on a mission to kill this Amazonian warrior who would later teach him the art of war. 
-ANSWER: Scathatch
-[10] Cú Chulainn is perhaps most famous for a great war fought over a horned one of these animals. In another tale, the Morrígan appears to him as an old woman and gives him three drinks of milk from one of these animals. 
-ANSWER: cows [accept equivalents like bulls] <Mythology, AH><ed. OC>
+8. Although the modern four field approach of anthropology is often attributed to this Columbia luminary, the truth is actually more complicated. For 10 points each:
+[10] Name this German-American anthropologist whose students included Margaret Mead and Zora Neale Hurston.
+ANSWER: Franz Boas
+[10] Boaz was most famous for opposing the "scientific" form of this discriminatory belief, which holds that White Europeans are evolutionarily superior to Africans.
+ANSWER: racism
+[10] Scientific racism was often supported by cranial studies that relied upon this pseudoscientific idea, which held that bumps in the skull can predict mental traits.
+ANSWER: phrenology <Social Science, AH><ed. JB>
 
 
+9. This quantity for water can be lowered by dissolving other substances within it. For 10 points each:
+[10] Name this property which is 0 degrees celsius for pure water at standard pressure.
+ANSWER: freezing point [accept melting point]
+[10] Freezing point depression is one of these properties, which means that it is only affected by the molality of the solution. Another example of this type of property include boiling point elevation.
+ANSWER: colligative properties
+[10] Colligative properties depend on this quantity, the ratio of the number of moles of dissolved particles in the solution to the number of moles of solute. This value is 1 for sucrose and about 1.9 for sodium chloride.
+ANSWER: van 't Hoff factor [prompt on i] <Chemistry, CT><ed. KLei>
+
+10. This man formed a Committee of Safety of ten people which replaced the government under Francis Nicholson. For 10 points each:
+[10] Name this German-born businessman who took control of a colony following William and Mary's accession to the throne after the Glorious Revolution. His namesake "Rebellion" was crushed by Henry Sloughter.  
+ANSWER: Jacob Leisler [accept Leisler's Rebellion]
+[10] Leisler's Rebellion took place in this modern-day state. An early colony based in this modern-day state was called New Amsterdam and was led by Peter Stuyvesant. 
+ANSWER: New York
+[10] In 1655, Stuyvesant seized a colony belonging to this other nation. Peter Minuit built Fort Christina in what is now northern Delaware in the name of this nation.
+ANSWER: Sweden <American History, JL><ed. JB>
+
+11. For 10 points each, answer some questions about diseases mentioned in the season four finale of House, M.D.:
+[10] In order to prevent patients from leaving after a bus crash, House announces that a patient with a stiff neck has this usually viral disease characterized by the inflammation of the membranes around the brain and spinal cord.
+ANSWER: meningitis
+[10] Foreman proposes that Amber has this disease caused by bacteria of the genus Rickettsia and spread through ticks. Its name is a result of its prevalence in Montana in the 19th century.
+ANSWER: Rocky Mountain spotted fever [accept RMSF]
+[10] Amber's symptoms are actually a result of her taking amantadine, once used as a medication for this disease. 2009 saw an outbreak of the H1N1 or "swine" variant of this disease.
+ANSWER: influenza [or the flu] <Biology, AB><ed. VS>
+
+12. This captain has a new leg fashioned after he wrenches his ivory one leaving the Samuel Enderby. For 10 points each:
+[10] Name this monomaniacal captain of the Pequod. Fedallah prophesies that this character that he can only be killed by hemp.
+ANSWER: Captain Ahab
+[10] Another literary sailor is Nemo, the captain of this ship in Jules Verne's Twenty Leagues Under the Sea.
+ANSWER: Nautilus
+[10] Jim Hawkins overhears this character talking to two other sailors while hiding in an apple barrel. This one-legged pirate is accompanied by the parrot Captain Flint and is the main antagonist of Treasure Island.
+ANSWER: Long John Silver <Long Fiction, JP><ed. OC>
+
+
+13. Baily's beads can be seen during some of these events. For 10 points each:
+[10] Name these events that occur when one astronomical object is obscured by another. This type of event can happen when the Earth, moon, and sun line up and has solar and lunar forms.
+ANSWER: eclipse [accept (total) solar eclipse or lunar eclipse, prompt on but do not reveal, syzygy, occultation, or transit]
+[10] This event occurs when a Solar System body passes in front of a larger body but does not completely block it out, such as Venus passing in front of the Sun. These events are differentiated from occultations and eclipses.
+ANSWER: transits
+[10] An observer standing in this part of the moon's shadow experiences a total solar eclipse. This innermost part of a shadow is the darkest because the light source is completely blocked.
+ANSWER: umbra <Other Science, AC><ed. VS>
+
+14. One character in this novel threatens to castrate himself in order to prove himself innocent of rape. For 10 points each:
+[10] Even-numbered chapters in this novel detail the bizarre soap operas of Pedro Camacho. This novel focuses on an employee of the radio station Panamericana and his romance with the title relative.
+ANSWER: Aunt Julia and the Scriptwriter
+[10] This Peruvian Nobel Prize laureate wrote Aunt Julia and the Scriptwriter. He also wrote about Urania Cabral's return to Santo Domingo in The Feast of the Goat.
+ANSWER: Mario Vargas Llosa
+[10] Vargas Llosa's The War of the End of the World portrays the fictional Canudos War of this country. The author of Dona Flor and Her Two Husbands originated from this country, where he studied law in Rio de Janeiro.
+ANSWER: Federative Republic of Brazil [the author is Jorge Amado] <Long Fiction, AK><ed. OC>
+
+15. The wealth of the Dutch middle class during the 1600s created an immense demand for this type of painting. For 10 points each:
+[10] Name this kind of painting, exemplified by Jan Vermeer's domestic scenes, which portrays ordinary people engaged in everyday activities.
+ANSWER: genre painting [accept petit genre]
+[10] The precision with which Vermeer depicts light-contrasts in many of his paintings has led to speculation that he produced them with the aid of this optical device. 
+ANSWER: camera obscura
+[10] One of Vermeer's most famous works is this tronie depicting a woman wearing a blue-headscarf and a title piece of jewelry.
+ANSWER: Girl with a Pearl Earring <Visual Arts, AH><ed. AH>
+
+16. In one scene in Aeschylus's Agamemnon, two prey-birds tear the belly of a pregnant hare as the Greeks are beached at Aulis. For 10 points each:
+[10] Calchas the clanseer interprets the pregnant hare to be this Asian city. The Greeks would fight a ten year war against this city over Paris's abduction of Helen. 
+ANSWER: Troy
+[10] The invasion of Troy was stymied by Artemis, who was stung with pity for the hare. In order to sail, Agamemnon was forced to sacrifice this girl, his eldest daughter. 
+ANSWER: Iphigenia 
+[10] Agamemnon is later murdered by this character, his wife and the mother of Iphigenia. At the beginning of Agamemnon, this woman expresses hatred for her husband's new concubine Cassandra. 
+ANSWER: Clytemnestra <Drama, AH><ed. OC>
+
+17. Although tradition has it that Urban II cried "Deus vult," or "God wills it" in support of this event, there is little eyewitness testimony to corroborate this fact. For 10 points each:
+[10] Name this conflict which occurred after Alexios I Komnenos' request for aid. Key battles include those at Dorylaeum, Antioch, and Ascalon.
+ANSWER: First Crusade [prompt on crusade] 
+[10] The purpose of the First Crusade was to "liberate" this Holy City which contains the Church of the Holy Sepulchre and the Al-Aqsa Mosque. Israel claims it as its present-day capital. 
+ANSWER: Jerusalem
+[10] Prior to the official "Lords" Crusade, this man and his lieutenant Walter Sans Avoir led the far less successful People's Crusade. His army terrorized the European countryside before being slaughtered at the Battle of Civetot.
+ANSWER: Peter the Hermit <European History, DC><ed. AH>
+
+18. Answer the following about the myth of Hippolytus, for 10 points each:
+[10] This Greek goddess of love swears to get revenge on Hippolytus, who spurns her in favor of his relationship with Artemis.
+ANSWER: Aphrodite
+[10] Aphrodite impels this stepmother of Hippolytus to fall in love with him, which eventually leads to her committing suicide in disgrace.
+ANSWER: Phaedra
+[10] Phaedra is better known as the second wife of this hero, who fathered Hippolytus with the Amazon Antiope [["an-TIE-oh-pee"]]. In another myth, he slew the Minotaur and abandoned Ariadne at Naxos on his return home.
+ANSWER: Theseus <Mythology, DY><ed. AH>
+
+19. Answer the following about the Reformation Symphony, for 10 points each:
+[10] The Reformation Symphony was written by this German composer, who wrote the Hebrides Overture and Scottish Symphony.
+ANSWER: Felix Mendelssohn-Bartholdy
+[10] The opening of the Reformation Symphony includes this rising six-note phrase that also appears in the adagio of Bruckner's 9th symphony and in Richard Wagner's opera Parsifal.
+ANSWER: Dresden Amen
+[10] Mendelssohn's lively fourth symphony in A major had this nickname. Mendelssohn described this symphony as "the jolliest piece I have ever done" in a letter sent to his sister from Rome. 
+ANSWER: "Italian" Symphony <Auditory Art, DY><ed. OC>
+
+20. In a Dylan Thomas poem, the narrator says that he is "dumb to tell the crooked" one of these flowers that his "youth is bent by the same wintry fever." For 10 points each:
+[10] Name this subject of a Robert Burns poem in which he compares his love to a "red, red" one of these flowers.
+ANSWER: rose [accept "A Red, Red Rose"]
+[10] In a William Carlos Williams poem titled for this flower, the speaker "was cheered" that "that there were flowers also / in hell." In that poem, this flower is described as "like a buttercup ... save that it's green and wooden."
+ANSWER: asphodel [accept "Asphodel, That Greeny Flower," prompt on that Greeny Flower]
+[10] According to a Blake poem, people "arise from their graves and aspire" where this flower "wishes to go." Allen Ginsberg wrote a "Sutra" titled for this flower.
+ANSWER: sunflower [accept "Ah! Sun-flower" or "Sunflower Sutra"] <Non-epic Poetry, KLei><ed. OC>

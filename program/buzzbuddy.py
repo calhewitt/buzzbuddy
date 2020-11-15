@@ -18,7 +18,7 @@ qtexts = []
 answers = []
 
 
-os.system("docx2txt.pl Packet.docx tmp/packet.txt")
+os.system("./program/docx2txt.pl Packet.docx tmp/packet.txt")
 packet = open("tmp/packet.txt").read()
 
 
