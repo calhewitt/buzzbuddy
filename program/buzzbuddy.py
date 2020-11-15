@@ -17,7 +17,9 @@ qs = 20
 qtexts = []
 answers = []
 
-packet = open("packet.txt").read()
+
+os.system("docx2txt.pl Packet.docx tmp/packet.txt")
+packet = open("tmp/packet.txt").read()
 
 
 paras = packet.split("\n")
@@ -50,9 +52,14 @@ for i, qtext in enumerate(qtexts):
     wait_key()
     print(answers[i])
     print("press y if right, n if not, q to quit",)
-    if wait_key() == "q":
+
+    k = wait_key()
+
+    if k == "q":
         sys.exit()
-    if wait_key() == "y":
+
+    elif k == "y":
         total += 1
+
     print("Total", total)
     time.sleep(1)
