@@ -4,6 +4,7 @@ import time
 import sys
 import beepy
 from console.utils import wait_key
+import easygui
 
 def begin_read(qtext):
     return subprocess.Popen(["say", "-r", str(rate), qtext])
@@ -18,7 +19,14 @@ qtexts = []
 answers = []
 
 
-os.system("./program/docx2txt.pl Packet.docx tmp/packet.txt")
+os.environ['TK_SILENCE_DEPRECATION'] = '1'
+
+packetfn = easygui.fileopenbox(filetypes=["*.docx"])
+if packetfn == None:
+    sys.exit()
+
+
+os.system("./program/docx2txt.pl " + packetfn +  " tmp/packet.txt")
 packet = open("tmp/packet.txt").read()
 
 
