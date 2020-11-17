@@ -4,7 +4,9 @@ import time
 import sys
 import beepy
 from console.utils import wait_key
-import easygui
+from tkinter import Tk
+from tkinter.filedialog import askopenfilename
+
 
 def begin_read(qtext):
     return subprocess.Popen(["say", "-r", str(rate), qtext])
@@ -21,12 +23,18 @@ answers = []
 
 os.environ['TK_SILENCE_DEPRECATION'] = '1'
 
-packetfn = easygui.fileopenbox(filetypes=["*.docx"])
+Tk().withdraw()
+packetfn = askopenfilename(filetypes=(("Word Documents", "*.docx"),))
 if packetfn == None:
     sys.exit()
 
+try:
+    open(packetfn)
+except:
+    sys.exit(0)
 
-os.system("./program/docx2txt.pl " + packetfn +  " tmp/packet.txt")
+
+subprocess.Popen(["./program/docx2txt.pl", packetfn, "tmp/packet.txt"]).wait()
 packet = open("tmp/packet.txt").read()
 
 
