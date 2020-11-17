@@ -68,6 +68,7 @@ if mode == MODE_WORD_DOC:
 
 elif mode == MODE_JSON:
     print("Asking", qs, "random questions from file", jfile)
+    print("PRESS SPACE TO BUZZ")
     print()
     full_qs = json.load(open("questions/" + jfile))["data"]["tossups"]
     selected = random.choices(full_qs, k=qs)
